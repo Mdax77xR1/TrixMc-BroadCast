@@ -1,0 +1,2 @@
+# TrixMc-BroadCast
+Prefix : %bc
